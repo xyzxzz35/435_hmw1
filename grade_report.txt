@@ -1,0 +1,7 @@
+120 - 7 = 113 pts
+
+3 -7pts
+  your output xml file only repeats the detail of 1 book for multiple times
+
+  
+  
